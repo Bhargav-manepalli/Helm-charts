@@ -3,12 +3,12 @@ entries:
   nginx-bhargav:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-18T11:06:48.627942804Z"
+    created: "2023-04-19T05:12:37.718322057Z"
     description: A Helm chart for Kubernetes
     digest: 876c03b171b14a0400affcf4b30abc316f963416d0a3203ee01eabf9e7d960be
     name: nginx-bhargav
     type: application
     urls:
-    - https://Bhargav-manepalli.github.io/Helm-charts/nginx-bhargav-0.1.0.tgz
+    - https://github.com/Bhargav-manepalli/Helm-charts/nginx-bhargav-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-18T11:06:48.627367227Z"
+generated: "2023-04-19T05:12:37.716881426Z"
